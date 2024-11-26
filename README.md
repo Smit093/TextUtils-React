@@ -3,6 +3,9 @@
 ## Project Overview
 **TextUtils** is a simple text editor application built with **React** and **Vite**. This app allows users to analyze and manipulate text efficiently, providing features such as word count, character count, and reading time. The application is designed to be user-friendly and works seamlessly in any web browser.
 
+![Screenshot](https://github.com/user-attachments/assets/635fdc99-0c61-4f52-a695-41488b36efbf)
+![Screenshot](https://github.com/user-attachments/assets/5626b769-ed45-447c-b5b1-30fec4075cc5)
+
 ## Features
 - **Text Analysis:** Quickly analyze your text for word count, character count, and estimated reading time.
 - **User-Friendly Interface:** Simple and intuitive design for easy text manipulation.
